@@ -1,0 +1,14 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip174_728">
+			<rect id="Icon / Line / Paypal" width="24.000000" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Icon / Line / Paypal" width="24.000000" height="24.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip174_728)">
+		<path id="Vector" d="M12.5 13C15 13 17.5 10.5 17.5 8C17.5 5 15.6001 3 12.5 3L7 3C6.5 3 6 3.5 6 4L4 18C4 18.5 4.5 19 5 19L7.7998 19L9 14C9.1001 13.3999 9.3999 13 10 13L12.5 13ZM17.5 7.19995C19.2002 8.19995 20 10 20 12C20 14.5 17.5 16.5 15 16.5L12.3999 16.5L11.7998 20.1001C11.7534 20.3293 11.6274 20.5349 11.4448 20.6812C11.2622 20.8271 11.0342 20.9048 10.7998 20.8999L8.1001 20.8999C8.0249 20.9016 7.95068 20.8862 7.88232 20.855C7.81396 20.824 7.75391 20.7778 7.70557 20.7202C7.65771 20.6626 7.62354 20.595 7.60498 20.5222C7.58691 20.4495 7.58496 20.3735 7.6001 20.3L7.7998 18.8999" stroke="#3B5162" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
